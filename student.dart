@@ -35,8 +35,8 @@ class Student {
 }
 
 void main() {
-  Student student1 = Student('Alex', 'Information Technology', 1, 90);
-  Student student2 = Student('Jamie', 'Computer Science', 2, 85);
+  Student student1 = Student('Gabriel', 'Information Technology', 1, 90);
+  Student student2 = Student('Diamante', 'Computer Science', 2, 85);
 
   List<Student> students = [student1, student2];
 
